@@ -1,4 +1,4 @@
-# Content of Client Module is in Master branch of this Reposetory
+# Content of Client folder is in the Master branch of this Repository
 
 ## Getting Started with Create React App
 
