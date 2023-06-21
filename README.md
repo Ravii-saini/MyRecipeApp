@@ -35,7 +35,7 @@ MyRecipe App is a MERN stack project with Authentication using JWT. User Registe
 - `Modules`: JWT authentication, Bicrypt, Nodemon
 
 ## ScreenShot link:
-![visit the Drive link](asdfghjk)
+[visit the Drive link](asdfghjk)
 
 
 
