@@ -27,7 +27,12 @@ MyRecipe App is a MERN stack project with Authentication using JWT. User Registe
 - Upload new recipes to the database.
 - Saved the recipes after login.
 - connected to MongoDB database.
-- JWT authentication. 
+- JWT authentication.
+
+## TechStack Used:
+- `Client`: React, CSS, JavaScript.
+- `Server`: Express.js, Mongoose, React-router-dom, MongoDB
+- 'Modules`: JWT authentication, Bicrypt , Nodemon 
 
 
 
