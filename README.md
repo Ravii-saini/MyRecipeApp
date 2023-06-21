@@ -5,7 +5,7 @@ MyRecipe App is a MERN stack project with Authentication using JWT. User Registe
 
 ## Structure
 #### server module for backed code 
-1. `node_modules`: file store modules required for projects.
+- `node_modules`: file store modules required for projects.
 2. `src/models/Recipes.js`: file store code for the Recipe model.
 3. `src/models/Users.js`: file store code for the User model.
 4. `src/routes/recipes.js`: file store code for recipe routes.
